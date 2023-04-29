@@ -1,5 +1,5 @@
 <?php 
-require_once__DIR__ . '/vendor/autoload.php';
+require_once __DIR__ . '/vendor/autoload.php';
 //grab variables passed
 $fname = $_POST['fname'];
 $lname=$_POST['lname'];
